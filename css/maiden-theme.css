@@ -629,7 +629,7 @@ a {
 }
 .menu-color .title,
 .menu-color a {
-  color: #ff788f !important;
+  color: #000 !important;
 }
 .content code {
   font-family: CascadiaCode;
